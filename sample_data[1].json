@@ -1,0 +1,23 @@
+[
+  {
+    "expense_id": 1,
+    "date": "2026-09-01",
+    "category": "Food",
+    "amount": 120.0,
+    "note": "Lunch"
+  },
+  {
+    "expense_id": 2,
+    "date": "2026-09-03",
+    "category": "Travel",
+    "amount": 80.0,
+    "note": "Bus"
+  },
+  {
+    "expense_id": 3,
+    "date": "2026-09-10",
+    "category": "Education",
+    "amount": 250.0,
+    "note": "Book"
+  }
+]
